@@ -1,0 +1,6 @@
+INSERT INTO tabla1(campo1,campo2)                      
+VALUES (1234567,'abcde'); 
+
+--Sin colocar los campos de forma explícita
+INSERT INTO tabla1                      
+VALUES (1234567,'abcde'); 
